@@ -1,0 +1,9 @@
+continue US 2
+
+test case 4 is all
+
+....
+
+Two types of software testing:
+- Static testing
+- Dynamic testing
