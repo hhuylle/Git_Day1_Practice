@@ -1,0 +1,7 @@
+continue us 2
+
+we have some meeting just like:
+- Sprint Planning Meeting
+- Grooming meeting
+- Scrum meeting -  Daily Stand up meeting
+...........................
